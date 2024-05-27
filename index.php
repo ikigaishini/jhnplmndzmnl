@@ -14,7 +14,7 @@
     <h1>My First Bootstrap Page</h1>
     <p>Resize this responsive page to see the effect!</p>
   </div>
-  //test
+  <p>Testing</p>
   <div class="container p-5">
 
     <div class="container mx-auto p-2 text-center w-50">
